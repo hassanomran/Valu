@@ -20,7 +20,7 @@ to avoid cors origins issues with the default backend configuration you can conf
 
 conncectionstring:put your server configuration here and the password for your server like that:
 "ConnectionStrings": {
-    "intalio": "Server=localhost;Database=intalio;User Id=sa;Password=123456Hi;Trusted_Connection=true;MultipleActiveResultSets=true;TrustServerCertificate=true;"
+    "valu": "Server=localhost;Database=valu;User Id=sa;Password=123456Hi;Trusted_Connection=true;MultipleActiveResultSets=true;TrustServerCertificate=true;"
   },
 
 ## configuration Clientside API
