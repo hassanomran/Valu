@@ -1,0 +1,11 @@
+F:\intalio\valu.Domain\bin\Debug\net6.0\valu.Domain.deps.json
+F:\intalio\valu.Domain\bin\Debug\net6.0\valu.Domain.dll
+F:\intalio\valu.Domain\bin\Debug\net6.0\valu.Domain.pdb
+F:\intalio\valu.Domain\obj\Debug\net6.0\valu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\intalio\valu.Domain\obj\Debug\net6.0\valu.Domain.AssemblyInfoInputs.cache
+F:\intalio\valu.Domain\obj\Debug\net6.0\valu.Domain.AssemblyInfo.cs
+F:\intalio\valu.Domain\obj\Debug\net6.0\valu.Domain.csproj.CoreCompileInputs.cache
+F:\intalio\valu.Domain\obj\Debug\net6.0\valu.Domain.dll
+F:\intalio\valu.Domain\obj\Debug\net6.0\refint\valu.Domain.dll
+F:\intalio\valu.Domain\obj\Debug\net6.0\valu.Domain.pdb
+F:\intalio\valu.Domain\obj\Debug\net6.0\ref\valu.Domain.dll

@@ -1,0 +1,308 @@
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\appsettings.Development.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\appsettings.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.exe
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.deps.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.runtimeconfig.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Humanizer.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Renci.SshNet.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.AssemblyReference.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfoInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfo.cs
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.CoreCompileInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cs
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.intalio.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.build.intalio.API.props
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.intalio.API.props
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.intalio.API.props
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\scopedcss\bundle\intalio.API.styles.css
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.CopyComplete
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\refint\intalio.API.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.genruntimeconfig.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\ref\intalio.API.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\appsettings.Development.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\appsettings.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.exe
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.deps.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.runtimeconfig.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.API.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Humanizer.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Renci.SshNet.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.AssemblyReference.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfoInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfo.cs
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.CoreCompileInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cs
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.intalio.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.build.intalio.API.props
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.intalio.API.props
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.intalio.API.props
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\scopedcss\bundle\intalio.API.styles.css
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio..F4177B8F.Up2Date
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\refint\intalio.API.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\intalio.API.genruntimeconfig.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.API\obj\Debug\net6.0\ref\intalio.API.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.API.exe
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.API.deps.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.API.runtimeconfig.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.API.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.API.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Renci.SshNet.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.AssemblyReference.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfoInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfo.cs
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.intalio.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.build.intalio.API.props
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.intalio.API.props
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.intalio.API.props
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\scopedcss\bundle\intalio.API.styles.css
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio..F4177B8F.Up2Date
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\refint\intalio.API.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\intalio.API.genruntimeconfig.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.API\obj\Debug\net6.0\ref\intalio.API.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\appsettings.Development.json
+F:\intalio\intalio.API\bin\Debug\net6.0\appsettings.json
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.API.exe
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.API.deps.json
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.API.runtimeconfig.json
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.API.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.API.pdb
+F:\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Humanizer.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Renci.SshNet.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.dll
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.BLL.pdb
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.DAL.pdb
+F:\intalio\intalio.API\bin\Debug\net6.0\intalio.Domain.pdb
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.AssemblyReference.cache
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfoInputs.cache
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.AssemblyInfo.cs
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.csproj.CoreCompileInputs.cache
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cs
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.MvcApplicationPartsAssemblyInfo.cache
+F:\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.intalio.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.build.intalio.API.props
+F:\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.intalio.API.props
+F:\intalio\intalio.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.intalio.API.props
+F:\intalio\intalio.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\intalio\intalio.API\obj\Debug\net6.0\scopedcss\bundle\intalio.API.styles.css
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio..F4177B8F.Up2Date
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.dll
+F:\intalio\intalio.API\obj\Debug\net6.0\refint\intalio.API.dll
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.pdb
+F:\intalio\intalio.API\obj\Debug\net6.0\intalio.API.genruntimeconfig.cache
+F:\intalio\intalio.API\obj\Debug\net6.0\ref\intalio.API.dll

@@ -1,0 +1,76 @@
+<div mat-dialog-content class="dialog">
+    <form [formGroup]="myForm" (ngSubmit)="EditEmployee()" class="example-form">
+      <mat-label class="head1">Edit Employee</mat-label>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Name</mat-label>
+        <input matInput placeholder="Edit name" formControlName="name" />
+        <mat-error *ngIf="myForm.get('name')?.hasError('required')">
+          Name is required
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Identification</mat-label>
+        <input matInput placeholder="Edit identification" formControlName="identification" />
+        <mat-error *ngIf="myForm.get('identification')?.hasError('required')">
+          identification is required
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>chose hireDate</mat-label>
+        <input matInput type="date" [(ngModel)]="form.hireDate" placeholder="chose hireDate" formControlName="hireDate" />
+      </mat-form-field>
+  
+       
+      <mat-form-field class="example-full-width assignedTo">
+        <mat-label>Select department</mat-label>
+        <mat-select [(ngModel)]="form.departmentID" formControlName="departmentID">
+          <mat-option *ngFor="let item of departmentList" [value]="item.id" >
+            {{ item.name }}
+          </mat-option>
+        </mat-select>   
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Phone</mat-label>
+        <input matInput placeholder="Edit phone" formControlName="phone" />
+        <mat-error *ngIf="myForm.get('phone').hasError('pattern')">
+          Invalid phone number format
+        </mat-error>
+      </mat-form-field>
+      
+      <mat-form-field class="example-full-width">
+        <mat-label>MobileNumber</mat-label>
+        <input matInput placeholder="Edit mobileNumber" formControlName="mobileNumber" />
+        <mat-error *ngIf="myForm.get('mobileNumber').hasError('required')">
+          Mobile Number is required
+       </mat-error>
+      </mat-form-field>
+      
+      <mat-form-field class="example-full-width">
+        <mat-label>Position</mat-label>
+        <input matInput placeholder="Edit position" formControlName="position" />
+        <mat-error *ngIf="myForm.get('position')?.hasError('required')">
+          position is required
+        </mat-error>
+      </mat-form-field>
+      <button
+        mat-button
+        (click)="CloseFOrm()"
+        style="background-color: red; color: white"
+      >
+        Close
+      </button>
+      <button
+        mat-button
+        type="submit"
+        style="background-color: green; color: white; margin-left: 20px"
+      >
+        Save
+      </button>
+      <!-- <button mat-button type="submit"  style="background-color: green; color: white;margin-left: 20px;">Edit</button> -->
+    </form>
+  </div>
+  

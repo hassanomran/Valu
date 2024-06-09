@@ -1,0 +1,81 @@
+<button
+(click)="openAddFormDialog()"
+  style="background-color: green; color: white; margin-bottom: 20px"
+  mat-button
+>
+  Add New Employee
+</button>
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+  <ng-container matColumnDef="name">
+    <th class="title1" mat-header-cell *matHeaderCellDef>Name</th>
+    <td class="title1" mat-cell *matCellDef="let element">
+      {{ element.name }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="departmentName">
+    <th class="title2" mat-header-cell *matHeaderCellDef>DepartmentName</th>
+    <td class="title2" mat-cell *matCellDef="let element">
+      {{ element.departmentName }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="hireDate">
+    <th class="title3" mat-header-cell *matHeaderCellDef>HireDate</th>
+    <td class="title3" mat-cell *matCellDef="let element">
+      {{ element.hireDate | date: 'dd/MM/yyyy'}}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="identification">
+    <th class="title4" mat-header-cell *matHeaderCellDef>Identification</th>
+    <td class="title4" mat-cell *matCellDef="let element">
+      {{ element.identification }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="phone">
+    <th class="title5" mat-header-cell *matHeaderCellDef>Phone</th>
+    <td class="title5" mat-cell *matCellDef="let element">
+      {{ element.phone }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="mobileNumber">
+    <th class="title6" mat-header-cell *matHeaderCellDef>MobileNumber</th>
+    <td class="title6" mat-cell *matCellDef="let element">
+      {{ element.mobileNumber }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="position">
+    <th class="title6" mat-header-cell *matHeaderCellDef>Position</th>
+    <td class="title6" mat-cell *matCellDef="let element">
+      {{ element.position }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="edit">
+    <th class="edit" mat-header-cell *matHeaderCellDef>edit</th>
+    <td class="edit" mat-cell *matCellDef="let element">
+      <button
+        style="background-color: blue; color: white"
+        mat-button
+        color="primary"
+        (click)="EditEmployee(element); openEditFormDialog()"
+      >
+        Edit
+      </button>
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="delete">
+    <th class="edit" mat-header-cell *matHeaderCellDef>delete</th>
+    <td class="edit" mat-cell *matCellDef="let element">
+      <button
+        style="background-color: red; color: white"
+        mat-button
+        color="accent"
+        (click)="DeleteEmployeeService(element)"
+      >
+        Delete
+      </button>
+    </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+</table>

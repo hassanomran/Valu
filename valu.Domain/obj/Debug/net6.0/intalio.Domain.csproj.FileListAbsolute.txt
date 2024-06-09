@@ -1,0 +1,45 @@
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.deps.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.csproj.AssemblyReference.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfoInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfo.cs
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.csproj.CoreCompileInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\refint\intalio.Domain.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\ref\intalio.Domain.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.deps.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfoInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfo.cs
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.csproj.CoreCompileInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\refint\intalio.Domain.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.Domain\obj\Debug\net6.0\ref\intalio.Domain.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.deps.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfoInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfo.cs
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\refint\intalio.Domain.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.Domain\obj\Debug\net6.0\ref\intalio.Domain.dll
+F:\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.deps.json
+F:\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.dll
+F:\intalio\intalio.Domain\bin\Debug\net6.0\intalio.Domain.pdb
+F:\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfoInputs.cache
+F:\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.AssemblyInfo.cs
+F:\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.csproj.CoreCompileInputs.cache
+F:\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.dll
+F:\intalio\intalio.Domain\obj\Debug\net6.0\refint\intalio.Domain.dll
+F:\intalio\intalio.Domain\obj\Debug\net6.0\intalio.Domain.pdb
+F:\intalio\intalio.Domain\obj\Debug\net6.0\ref\intalio.Domain.dll

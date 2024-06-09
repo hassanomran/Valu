@@ -1,0 +1,45 @@
+<div mat-dialog-content class="dialog">
+  <form [formGroup]="myForm" (ngSubmit)="AddNewDepartment()"  class="example-form">
+    <mat-label class="head1">Add New Department</mat-label>
+
+
+    <mat-form-field class="example-full-width">
+      <mat-label>Name</mat-label>
+      <input matInput placeholder="Add name" formControlName="name" />
+      <mat-error *ngIf="myForm.get('name')?.hasError('required')">
+        Name is required
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+      <mat-label>Details</mat-label>
+      <input matInput placeholder="Add Details" formControlName="details" />
+      <mat-error *ngIf="myForm.get('details')?.hasError('required')">
+        Name is required
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field class="example-full-width">
+      <mat-label>Order</mat-label>
+      <input matInput placeholder="Add Order" formControlName="order" />
+      <mat-error *ngIf="myForm.get('order')?.hasError('min')">
+        order must be greater than 0
+      </mat-error>
+    </mat-form-field>
+
+    <button
+      mat-button
+      (click)="CloseFOrm()"
+      style="background-color: red; color: white"
+    >
+      Close
+    </button>
+    <button
+      mat-button
+      type="submit"
+      style="background-color: green; color: white; margin-left: 20px"
+    >
+      Save
+    </button>
+    <!-- <button mat-button type="submit"  style="background-color: green; color: white;margin-left: 20px;">Edit</button> -->
+  </form>
+</div>

@@ -1,0 +1,60 @@
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.deps.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.AssemblyReference.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfoInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfo.cs
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.CoreCompileInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.CopyComplete
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\refint\intalio.BLL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\ref\intalio.BLL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.deps.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.AssemblyReference.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfoInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfo.cs
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.CoreCompileInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio..182A8742.Up2Date
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\refint\intalio.BLL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.BLL\obj\Debug\net6.0\ref\intalio.BLL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.deps.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.AssemblyReference.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfoInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfo.cs
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio..182A8742.Up2Date
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\refint\intalio.BLL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.BLL\obj\Debug\net6.0\ref\intalio.BLL.dll
+F:\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.deps.json
+F:\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.dll
+F:\intalio\intalio.BLL\bin\Debug\net6.0\intalio.BLL.pdb
+F:\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.dll
+F:\intalio\intalio.BLL\bin\Debug\net6.0\intalio.Domain.pdb
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.AssemblyReference.cache
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfoInputs.cache
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.AssemblyInfo.cs
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.csproj.CoreCompileInputs.cache
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio..182A8742.Up2Date
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.dll
+F:\intalio\intalio.BLL\obj\Debug\net6.0\refint\intalio.BLL.dll
+F:\intalio\intalio.BLL\obj\Debug\net6.0\intalio.BLL.pdb
+F:\intalio\intalio.BLL\obj\Debug\net6.0\ref\intalio.BLL.dll

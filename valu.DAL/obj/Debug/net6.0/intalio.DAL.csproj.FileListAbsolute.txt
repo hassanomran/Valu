@@ -1,0 +1,76 @@
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.deps.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.runtimeconfig.json
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.AssemblyReference.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfoInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfo.cs
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.CoreCompileInputs.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.CopyComplete
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\refint\intalio.DAL.dll
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.pdb
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.genruntimeconfig.cache
+E:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\ref\intalio.DAL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.deps.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.runtimeconfig.json
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.AssemblyReference.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfoInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfo.cs
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.CoreCompileInputs.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio..0BF766A5.Up2Date
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\refint\intalio.DAL.dll
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.pdb
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.genruntimeconfig.cache
+F:\CV\FreeLancer\Moath NAJI\intalio\intalio.DAL\obj\Debug\net6.0\ref\intalio.DAL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.deps.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.runtimeconfig.json
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.AssemblyReference.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfoInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfo.cs
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio..0BF766A5.Up2Date
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\refint\intalio.DAL.dll
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.pdb
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.genruntimeconfig.cache
+C:\Users\Hassan Omran\Downloads\Assignment\Assignment\intalio\intalio.DAL\obj\Debug\net6.0\ref\intalio.DAL.dll
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.deps.json
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.runtimeconfig.json
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.dll
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.DAL.pdb
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.dll
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.dll
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.BLL.pdb
+F:\intalio\intalio.DAL\bin\Debug\net6.0\intalio.Domain.pdb
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.AssemblyReference.cache
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfoInputs.cache
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.AssemblyInfo.cs
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.csproj.CoreCompileInputs.cache
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio..0BF766A5.Up2Date
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.dll
+F:\intalio\intalio.DAL\obj\Debug\net6.0\refint\intalio.DAL.dll
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.pdb
+F:\intalio\intalio.DAL\obj\Debug\net6.0\intalio.DAL.genruntimeconfig.cache
+F:\intalio\intalio.DAL\obj\Debug\net6.0\ref\intalio.DAL.dll

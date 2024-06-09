@@ -1,0 +1,58 @@
+<button
+(click)="openAddFormDialog()"
+  style="background-color: green; color: white; margin-bottom: 20px"
+  mat-button
+>
+  Add Department
+</button>
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+  <ng-container matColumnDef="name">
+    <th class="title2" mat-header-cell *matHeaderCellDef>Name</th>
+    <td class="title2" mat-cell *matCellDef="let element">
+      {{ element.name }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="details">
+    <th class="title2" mat-header-cell *matHeaderCellDef>Details</th>
+    <td class="title2" mat-cell *matCellDef="let element">
+      {{ element.details }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="order">
+    <th class="title2" mat-header-cell *matHeaderCellDef>Order</th>
+    <td class="title2" mat-cell *matCellDef="let element">
+      {{ element.order }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="edit">
+    <th class="edit" mat-header-cell *matHeaderCellDef>edit</th>
+    <td class="edit" mat-cell *matCellDef="let element">
+      <button
+        style="background-color: blue; color: white"
+        mat-button
+        color="primary"
+        (click)="EditDepartment(element); openEditFormDialog()"
+       
+      >
+        Edit
+      </button>
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="delete">
+    <th class="edit" mat-header-cell *matHeaderCellDef>delete</th>
+    <td class="edit" mat-cell *matCellDef="let element">
+      <button
+        style="background-color: red; color: white"
+        mat-button
+        color="accent"
+        (click)="DeleteDepartment(element)"
+      >
+      <!-- (click)="DeletedServices(element)" -->
+        Delete
+      </button>
+    </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+</table>
